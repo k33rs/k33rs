@@ -6,17 +6,9 @@ I have 6+ years of software engineering experience across backend, frontend, and
 
 ## Featured Work
 
-### [A2UI POC](https://github.com/k33rs/a2ui-poc)
+### [Trading Alerts](https://github.com/k33rs/trading-alerts)
 
-An end-to-end AI chat proof of concept with a React 19/Vite frontend and Python backend. The application invokes LLM and MCP tools, adapts tool results into A2UI events, and renders dynamic responses in the client. Includes streaming responses, Docker Compose, environment configuration, and client/server tests.
-
-### [A2UI Dynamic](https://github.com/k33rs/a2ui-dynamic)
-
-A Dockerized React/Vite and Python application exploring dynamically generated AI-driven UI components and events. Demonstrates a separated client/server architecture, typed frontend tooling, containerized local development, and configuration management.
-
-### [File2Form](https://github.com/k33rs/file2form)
-
-A full-stack utility that turns file input into structured, form-oriented data. Built around a concrete user workflow, with application code and TypeScript project tooling.
+An original Python market-alerting and research platform that turns configurable technical-analysis rules into reproducible scans, backtests, persistent state, and human-review workflows. The project uses Docker and Compose, YAML configuration, and focused pytest coverage for strategy evaluation, scan planning, state recovery, and review workflows. It is designed for research and alerts only; it does not execute trades or provide financial advice.
 
 ### [NeRF-RL](https://github.com/k33rs/NeRF-RL)
 
