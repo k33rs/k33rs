@@ -33,7 +33,7 @@ MSc research project combining Neural Radiance Fields and reinforcement learning
 
 - MSc in Computational Science, Universita della Svizzera italiana
 - BSc in Informatics, Universita della Svizzera italiana
-- Based in Como, Italy; previously worked in Switzerland
+- Based in Como, Italy
 
 ## Contact
 
