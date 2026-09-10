@@ -14,10 +14,6 @@ An end-to-end AI chat proof of concept with a React 19/Vite frontend and Python 
 
 A Dockerized React/Vite and Python application exploring dynamically generated AI-driven UI components and events. Demonstrates a separated client/server architecture, typed frontend tooling, containerized local development, and configuration management.
 
-### [Deep Agents Demo](https://github.com/k33rs/deep-agents-demo)
-
-A focused Python demonstration of multi-step, tool-using AI agent behavior. Built to explore orchestration patterns for LLM workflows and backend integrations.
-
 ### [File2Form](https://github.com/k33rs/file2form)
 
 A full-stack utility that turns file input into structured, form-oriented data. Built around a concrete user workflow, with application code and TypeScript project tooling.
